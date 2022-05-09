@@ -1,0 +1,7 @@
+{
+  "id": "whatsapp",
+  "version": 1,
+  "name": "WhatsApp",
+  "description": "Support for Meta’s WhatsApp messenger.",
+  "url": "https://web.whatsapp.com/"
+}
